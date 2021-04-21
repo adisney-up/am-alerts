@@ -1,0 +1,10 @@
+{
+  "clearMocks": true,
+  "collectCoverage": true,
+  "modulePaths": [
+    "<rootDir>"
+  ],
+  "restoreMocks": true,
+  "testEnvironment": "node",
+  "testRegex": "\\.test\\.js$"
+}
